@@ -25,7 +25,7 @@ SECRET_KEY = 'f=yq&18$9wf&50i4+3+c0!lgf!*b^t#dbe8&x%m+dl1z7167s4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tasija.pythonanywhere.com']
 
 
 # Application definition
